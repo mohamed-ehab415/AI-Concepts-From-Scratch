@@ -20,6 +20,8 @@ Implementing AI algorithms from scratch provides several key benefits:
 
 ✅ **Non-Maximum Suppression (NMS)** – A technique used in object detection to remove redundant bounding boxes. [View Implementation](https://github.com/mohamed-ehab415/IOU_from_scarth/blob/main/Non%20Max%20Suppression.py)  
 
+✅ **mean_average_precision (MAP)** – sed to evaluate object detection models by measuring how well predicted bounding boxes match the ground truth.. [View Implementation](https://github.com/mohamed-ehab415/AI-Concepts-From-Scratch/blob/main/Mean%20Average%20Precision.py)  
+
 
 ```
 
