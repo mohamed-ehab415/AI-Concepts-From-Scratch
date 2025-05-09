@@ -24,8 +24,7 @@ Implementing AI algorithms from scratch provides several key benefits:
 
 ✅ **mean_average_precision (MAP)** – sed to evaluate object detection models by measuring how well predicted bounding boxes match the ground truth.. [View Implementation](https://github.com/mohamed-ehab415/AI-Concepts-From-Scratch/blob/main/Mean%20Average%20Precision.py)  
 
-✅ **Multi-Head Attention** – A core component of the Transformer architecture that enables the model to focus on different parts of the input sequence in parallel.  
-[🔍 View Implementation]([./path/to/multihead_attention.py](https://github.com/mohamed-ehab415/AI-Concepts-From-Scratch/blob/main/multi-head-att.py))
+✅ **Multi-Head Attention** – A core component of the Transformer architecture that enables the model to focus on different parts of the input sequence in parallel. [🔍 View Implementation](https://github.com/mohamed-ehab415/AI-Concepts-From-Scratch/blob/main/multi-head-att.py)
 
 
 ```
