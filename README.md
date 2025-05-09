@@ -26,6 +26,9 @@ Implementing AI algorithms from scratch provides several key benefits:
 
 ✅ **Multi-Head Attention** – A core component of the Transformer architecture that enables the model to focus on different parts of the input sequence in parallel. [🔍 View Implementation](https://github.com/mohamed-ehab415/AI-Concepts-From-Scratch/blob/main/multi-head-att.py)
 
+✅ **Simple RNN** – A basic Recurrent Neural Network implementation that maintains a hidden state across time steps to process sequential data.  
+[View Implementation](https://github.com/mohamed-ehab415/AI-Concepts-From-Scratch/blob/main/Simple_RNN_Pyton.py)
+
 
 ```
 
