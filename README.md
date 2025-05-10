@@ -29,6 +29,7 @@ Implementing AI algorithms from scratch provides several key benefits:
 ✅ **Simple RNN** – A basic Recurrent Neural Network implementation that maintains a hidden state across time steps to process sequential data.  
 [View Implementation](https://github.com/mohamed-ehab415/AI-Concepts-From-Scratch/blob/main/Simple_RNN_Pyton.py)
 
+✅ **Cross-Attention** – A mechanism that allows a target sequence to attend to a source sequence, essential in encoder-decoder architectures for tasks like machine translation and image captioning. [View Implementation](https://github.com/mohamed-ehab415/AI-Concepts-From-Scratch/blob/main/cross_attention.py)
 
 ```
 
