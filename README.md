@@ -31,5 +31,11 @@ Implementing AI algorithms from scratch provides several key benefits:
 
 ✅ **Cross-Attention** – A mechanism that allows a target sequence to attend to a source sequence, essential in encoder-decoder architectures for tasks like machine translation and image captioning. [View Implementation](https://github.com/mohamed-ehab415/AI-Concepts-From-Scratch/blob/main/cross_attention.py)
 
+✅ **Multi-Class Object Detector** – Detects multiple classes in an image with bounding box regression. Combines **CrossEntropyLoss** for classification and **MSELoss** for bounding boxes using a ResNet50 backbone.  
+[View Implementation]([https://github.com/mohamed-ehab415/AI-Concepts-From-Scratch/blob/main/MultiClassDetector.py](https://github.com/mohamed-ehab415/AI-Concepts-From-Scratch/blob/main/mycode_simple_detector.py))  
+
+
+✅ **Multi-Class Object Detector** – Detects multiple classes in an image with bounding box regression. Combines **CrossEntropyLoss** for classification and **MSELoss** for bounding boxes using a ResNet50 backbone.  
+[View Implementation](https://github.com/mohamed-ehab415/AI-Concepts-From-Scratch/blob/main/MultiClassDetector.py)  
 ```
 
