@@ -34,6 +34,9 @@ Implementing AI algorithms from scratch provides several key benefits:
 ✅ **Multi-Class Object Detector** – Detects multiple classes in an image with bounding box regression. Combines **CrossEntropyLoss** for classification and **MSELoss** for bounding boxes using a ResNet50 backbone.  
 [View Implementation]([https://github.com/mohamed-ehab415/AI-Concepts-From-Scratch/blob/main/MultiClassDetector.py](https://github.com/mohamed-ehab415/AI-Concepts-From-Scratch/blob/main/mycode_simple_detector.py))  
 
+✅ **Fast R-CNN** – A region-based object detection model that uses RoI pooling to efficiently detect multiple objects. Features a ResNet50 backbone with dual heads for classification and bounding box regression. [View Implementation](https://github.com/mohamed-ehab415/AI-Concepts-From-Scratch/blob/main/Fast__RCNN.py)
+
+
 
 ✅ **Multi-Class Object Detector** – Detects multiple classes in an image with bounding box regression. Combines **CrossEntropyLoss** for classification and **MSELoss** for bounding boxes using a ResNet50 backbone.  
 [View Implementation](https://github.com/mohamed-ehab415/AI-Concepts-From-Scratch/blob/main/mycode_simple_detector.py)  
